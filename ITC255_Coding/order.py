@@ -4,3 +4,9 @@ class of Order():
 
     def getOrderDetail(self)
         return self.detail
+
+    def getSelection(self):
+        return self.selection
+
+    def getfoodItemName(self):
+        return self.foodItemName
